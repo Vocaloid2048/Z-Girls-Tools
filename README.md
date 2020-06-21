@@ -11,3 +11,10 @@ Wish you have a nice day !
 App , Server Create by Voc-夜芷冰
 
 Information Create by everyone !
+
+# Principle of this app 
+
+1. Get JSON file at Server
+2. Read the file 
+3. Put each data into a list item
+4. Done
