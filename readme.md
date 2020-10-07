@@ -1,8 +1,9 @@
-#Zgirls Tool (絕園小幫手) 
+# Zgirls Tool (絕園小幫手) 
 ![](http://cmt.25u.com:9513/zg/readme/ic_launcher_round.png)
 - 簡稱 ZGT
 - 為Zgirls玩家提供自助式的遊戲物品計算服務，以及實時數據列表
 [Google Play](https://play.google.com/store/apps/details?id=voc.net.tools.zgirls_tool)
+
 
 ## A.作者
 此應用由
@@ -11,7 +12,8 @@
 
 ----Zgirls 開發部--- (伺服器適配部分)
 
-在此感謝:
+| 在此感謝 ||
+| ------------ |---------------|
 | Ferthel| ![](https://cdn.discordapp.com/avatars/522386492224438274/e85844e4de3923ab25283aaec2c09f8a.png?size=128) |
 | Red| ![](https://cdn.discordapp.com/avatars/514450558720147461/fc98c7f2ae77ea980798caa19de2c739.png?size=128) |
 | Freya| ![](http://cmt.25u.com:9513/zg/readme/freya_icon.png) |
@@ -53,11 +55,11 @@ ZGT設有十種計算服務:
 - 建築物計算機 (計算單一建築升級至指定等級所需資源)
 
 | 教學樓計算機 |部隊計算機 |能力者等級計算機 |機甲計算機 |活動商店計算機 |
-|-|
+|-|-|-|-|-|
 | ![](http://cmt.25u.com:9513/zg/readme/tb.png)| ![](http://cmt.25u.com:9513/zg/readme/troop.png)| ![](http://cmt.25u.com:9513/zg/readme/exp.png)| ![](http://cmt.25u.com:9513/zg/readme/mecha.png)| ![](http://cmt.25u.com:9513/zg/readme/event.png)|
 
 |經驗轉等級計算機 |科技計算機 |羈絆計算機 |星石計算機 |建築物計算機 |
-|-|
+|-|-|-|-|-|
 |![](http://cmt.25u.com:9513/zg/readme/expc.png)| ![](http://cmt.25u.com:9513/zg/readme/tech.png)| ![](http://cmt.25u.com:9513/zg/readme/kizuna.png)| ![](http://cmt.25u.com:9513/zg/readme/star.png)| ![](http://cmt.25u.com:9513/zg/readme/build.png)|
 
 ## D.自定義背景
@@ -68,33 +70,33 @@ ZGT設有十種計算服務:
 - GIF
 
 ## E.設定
-###更新
-- [ ]下載測試版本(Beta)
-- [x]顯示新版本提醒
+### 更新
+ [ ] 下載測試版本(Beta)
+ [x] 顯示新版本提醒
 
-###主題
-- [ ]預設主題
-- [x]黑暗主題
-- [ ]粉色主題
-- [ ]韭蔥主題
-- [ ]夏日主題
-- [ ]自定義主題
+### 主題
+ [ ] 預設主題
+ [x] 黑暗主題
+ [ ] 粉色主題
+ [ ] 韭蔥主題
+ [ ] 夏日主題
+ [ ] 自定義主題
 
-###卡片
-- [x]允許ZGT讀取Zgirls內的數據
-- [ ]超級卡羅
-- [x]單位換算
-- [x]顯示「資源」卡片
-- [x]顯示「機甲」卡片
-- [x]顯示「部隊」卡片
-- [x]顯示「能力者」卡片
-- [ ]顯示「進度」卡片
-- [ ]顯示「星語」卡片
-- [ ]顯示「經驗」卡片
-- [ ]顯示「地雷」卡片
+### 卡片
+ [x] 允許ZGT讀取Zgirls內的數據
+ [ ] 超級卡羅
+ [x] 單位換算
+ [x] 顯示「資源」卡片
+ [x] 顯示「機甲」卡片
+ [x] 顯示「部隊」卡片
+ [x] 顯示「能力者」卡片
+ [ ] 顯示「進度」卡片
+ [ ] 顯示「星語」卡片
+ [ ] 顯示「經驗」卡片
+ [ ] 顯示「地雷」卡片
 
 |預設主題|黑暗主題|粉色主題|韭蔥主題|夏日主題|
-|-|
+|-|-|-|-|-|
 |![](http://cmt.25u.com:9513/zg/readme/theme1.png)|![](http://cmt.25u.com:9513/zg/readme/theme2.png)|![](http://cmt.25u.com:9513/zg/readme/theme3.png)|![](http://cmt.25u.com:9513/zg/readme/theme4.png)|![](http://cmt.25u.com:9513/zg/readme/theme5.png)|
 
 
@@ -107,7 +109,7 @@ ZGT設有十種計算服務:
 - HKD $100
 - HKD $150
 - HKD $200
-####暫時只支持Google Pay / Google Play Gift Card 支付
+##暫時只支持Google Pay / Google Play Gift Card 支付
 
 ## G.系統要求
 - Android 5.0 或以上
