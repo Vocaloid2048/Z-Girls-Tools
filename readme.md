@@ -4,12 +4,6 @@
 - 為Zgirls玩家提供自助式的遊戲物品計算服務，以及實時數據列表
 [Google Play](https://play.google.com/store/apps/details?id=voc.net.tools.zgirls_tool)
 
-**目錄**
-
-[TOCM]
-
-[TOC]
-
 ## A.作者
 此應用由
 ![](http://cmt.25u.com:9513/zg/readme/est_icon_round00.png)
@@ -17,8 +11,7 @@
 
 ----Zgirls 開發部--- (伺服器適配部分)
 
-| 在此感謝 |
-| ------------ |---------------|
+在此感謝:
 | Ferthel| ![](https://cdn.discordapp.com/avatars/522386492224438274/e85844e4de3923ab25283aaec2c09f8a.png?size=128) |
 | Red| ![](https://cdn.discordapp.com/avatars/514450558720147461/fc98c7f2ae77ea980798caa19de2c739.png?size=128) |
 | Freya| ![](http://cmt.25u.com:9513/zg/readme/freya_icon.png) |
