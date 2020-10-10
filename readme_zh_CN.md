@@ -1,7 +1,7 @@
 ![](http://cmt.25u.com:9513/zg/readme/ic_launcher_round.png)
 ## Zgirls Tool(简中版)
 
--[Zgirls Tool(简中版))](#Zgirls Tool(简中版))
+- [Zgirls Tool(简中版)](#Zgirls_Tool(简中版))
   * [01.为什么要使用Zgirls Tool?](#1._Why_should_I_use_Zgirls_Tool_?)
   * [02.如何使用教学楼计算器](#2._How_to_use_TB_calculator_?)
   * [03.如何使用部队计算器?](#3._How_to_use_Troops_calculator_?)
@@ -18,9 +18,9 @@
   * [14.什么是"更新"功能?](#14._What_is_"update"_function_?)
   * [15.嘿,"关于"中包含什么?](#15._Hey_,_what_did_"About"_contains_?)
   * [16.所以,告诉我为什么会有"捐款"吗?](#16._So_,_tell_me_why_there_have_"Donate"_?)
-  * [17.您从哪里获得这些图像?我可以使用它吗?](#17._Where_does_you_get_these_images_?) Can_I_use_it_?)
+  * [17.您从哪里获得这些图像?我可以使用它吗?](#17._Where_does_you_get_these_images_?Can_I_use_it_?)
   * [18.如何联系Voc?](#18._How_to_contact_Voc_?)
-  * [19.我在哪里可以向Voc提供反馈意见?](#19._Where_can_I_give_my_feedback_/_ideas_to_Voc_?)
+  * [19.我在哪里可以向Voc提供回馈意见?](#19._Where_can_I_give_my_feedback_/_ideas_to_Voc_?)
   * [20.我怎样才能成为Zgirls Tool的测试人员?](#20._How_can_I_be_a_tester_of_Zgirls_Tool_?)
   * [21.我可以成为Zgirls Tool的开发人员吗?](#21._Can_I_be_a_Dev_of_Zgirls_Tool_?)
   * [22.Zgirls Tool有什么要求?](#22._What_s_the_require_of_Zgirls_Tool_?)
@@ -133,7 +133,7 @@
 -> 自定义主题
 
 - 数据读取器
--> 可以使用ZGT读取Zgirls的数据(如果没有演示,您将只阅读该演示)
+-> 可以使用ZGT读取Zgirls的资料(如果没有演示,您将只阅读该演示)
 -> 单位转换(仅支持0- 6,否则将更改为1 [Defalut])
 -> 显示资源的加减(显示现在有多少资源添加/减少)
 -> 显示适配器(资源,机甲,部队,能力者,地雷,进度,星语,EXP)
@@ -156,8 +156,8 @@
 - ^进度
 (显示训练部队名称,是次训练数目,剩余训练时间,总训练时间)
 
-- ^激活星语
-(显示激活中的星语名称和所需的星石组合)
+- ^启动星语
+(显示启动中的星语名称和所需的星石组合)
 
 - 能力者(仅显示能力者级别)
 
@@ -168,7 +168,7 @@
 
 - 您可以通过设置页面(主页上的齿轮按钮)调整所需的其他功能(允许在Zgirls帐户中读取玩家的数据,显示资源类型数据转换,显示/隐藏指定的类别显示,数据值等)
 
-- 使用实时数据列表之前,请确保设备已连接到有效的Wi-Fi/使用移动数据.
+- 使用实时数据清单之前,请确保设备已连接到有效的Wi-Fi/使用移动数据.
 
 - 实时数据列表仅在安装Zgirls 1.2.21版(或更高版本)时才能正常工作,否则将崩溃.
 
@@ -197,7 +197,7 @@
 - Discord:Voc-夜芷冰#2512
 - 电子邮件:voc.app.programmer@gmail.com
 
-### 19.我在哪里可以向Voc提供反馈意见?
+### 19.我在哪里可以向Voc提供回馈意见?
 你可以 :
 - 向Voc发送电子邮件以告诉您您的想法
 - 加入Zgirls官方Discord服务器:[按我](https://discord.gg/UztYHEE)
@@ -214,7 +214,7 @@
 **最好再准备一台设备(VM / Nox也适合用于测试 Zgirls Tool)**
 
 ### 21.我可以成为Zgirls Tool的开发者吗?
-不幸的是,现在Voc无法让任何人帮助Voc,但是您可以向我提供反馈/想法,Voc十分欢迎听到不同的想法〜
+不幸的是,现在Voc无法让任何人帮助Voc,但是您可以向我提供回馈/想法,Voc十分欢迎听到不同的想法〜
 
 ### 22.Zgirls Tool有什么要求?
 - 您需要运行Android 5.0或更高版本的设备
@@ -235,13 +235,13 @@
 - 然后Voc请 Zgirls Volunteers 开一个 Zgirls Tool的专属频道
 - 在那儿,Voc有很多不错的主意!其中一些更已被放入Zgirls Tool中
 
-- 一天,Voc收到一条消息,有一名玩家建议Voc制作数据列表,以显示玩家在Zgirls中拥有的东西
+- 一天,Voc收到一条消息,有一名玩家建议Voc制作数据清单,以显示玩家在Zgirls中拥有的东西
 - 然后,Voc用了一个多月来完成此功能
-- 数据列表将会继续更新~
+- 数据清单将会继续更新~
 
 ### 24.Zgirls Tool的未来是什么?
 - Zgirls Tool完全制作完成后,Voc将更希望制作网站版
-- 首先,它仅包括数据列表
+- 首先,它仅包括数据清单
 - 不要忘了去关注"#zgirls-tool-suggestions",因为Voc会告诉那里告诉Zgirls Tool下一个更新的内容!
 
 编辑于2020-10-09 20:05:24
