@@ -1,7 +1,7 @@
 ![](http://cmt.25u.com:9513/zg/readme/ic_launcher_round.png)
-## Zgirls Tool(簡中版)
+## Zgirls Tool(繁中版)
 
-- [Zgirls Tool(簡中版)](#Zgirls_Tool(簡中版))
+- [Zgirls Tool(繁中版)](#Zgirls_Tool(繁中版))
   * [01.為什麼要使用Zgirls Tool?](#1._Why_should_I_use_Zgirls_Tool_?)
   * [02.如何使用教學樓計算器](#2._How_to_use_TB_calculator_?)
   * [03.如何使用部隊計算器?](#3._How_to_use_Troops_calculator_?)
