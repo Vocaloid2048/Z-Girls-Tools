@@ -1,246 +1,247 @@
+![](http://cmt.25u.com:9513/zg/readme/ic_launcher_round.png)
+## Zgirls Tool(简中版)
 
-![](http://cmt.25u.com:9513/zg/readme/ic_launcher_round.png) 
-## Zgirls Tool Guide (English Version)
+-[Zgirls Tool(简中版))](#Zgirls Tool(简中版))
+  * [01.为什么要使用Zgirls Tool?](#1._Why_should_I_use_Zgirls_Tool_?)
+  * [02.如何使用教学楼计算器](#2._How_to_use_TB_calculator_?)
+  * [03.如何使用部队计算器?](#3._How_to_use_Troops_calculator_?)
+  * [04.如何使用能力者EXP计算器?](#4._How_to_use_Enabler_EXP_calculator_?)
+  * [05.如何使用机甲计算器?](#5._How_to_use_Mecha_calculator_?)
+  * [06.如何使用活动计算器?](#6._How_to_use_Event_calculator_?)
+  * [07.如何使用EXP转换等级计算器?](#7._How_to_use_EXP_To_Lvl_calculator_?)
+  * [08.如何使用科技计算器?](#8._How_to_use_Technology_calculator_?)
+  * [09.如何使用羁绊计算器?](#9._How_to_use_Kizuna_calculator_?)
+  * [10.如何使用星语计算器?](#10._How_to_use_Star_Language_calculator_?)
+  * [11.如何使用建筑物计算器?](#11._How_to_use_Building_calculator_?)
+  * [12.如何自定义背景?](#12._How_to_make_a_custom_background_?)
+  * [13.什么是数据读取器?](#13._What_is_Ingame_Data_Reader_?)
+  * [14.什么是"更新"功能?](#14._What_is_"update"_function_?)
+  * [15.嘿,"关于"中包含什么?](#15._Hey_,_what_did_"About"_contains_?)
+  * [16.所以,告诉我为什么会有"捐款"吗?](#16._So_,_tell_me_why_there_have_"Donate"_?)
+  * [17.您从哪里获得这些图像?我可以使用它吗?](#17._Where_does_you_get_these_images_?) Can_I_use_it_?)
+  * [18.如何联系Voc?](#18._How_to_contact_Voc_?)
+  * [19.我在哪里可以向Voc提供反馈意见?](#19._Where_can_I_give_my_feedback_/_ideas_to_Voc_?)
+  * [20.我怎样才能成为Zgirls Tool的测试人员?](#20._How_can_I_be_a_tester_of_Zgirls_Tool_?)
+  * [21.我可以成为Zgirls Tool的开发人员吗?](#21._Can_I_be_a_Dev_of_Zgirls_Tool_?)
+  * [22.Zgirls Tool有什么要求?](#22._What_s_the_require_of_Zgirls_Tool_?)
+  * [23.我可以知道Zgirls Tool的"历史"吗?](#23._May_I_know_the_"history"_of_Zgirls_Tool_?)
+  * [24. Zgirls Tool的未来是什么?](#24._What_is_the_future_of_Zgirls_Tool_?)
 
-- [Zgirls Tool Guide (English Version)](#Zgirls_Tool_Guide_(English_Version))
-  * [01. Why should I use Zgirls Tool ?](#1._Why_should_I_use_Zgirls_Tool_?)
-  * [02. How to use TB calculator ](#2._How_to_use_TB_calculator_?)
-  * [03. How to use Troops calculator ?](#3._How_to_use_Troops_calculator_?)
-  * [04. How to use Enabler EXP calculator ?](#4._How_to_use_Enabler_EXP_calculator_?)
-  * [05.How to use Mecha calculator ?](#5._How_to_use_Mecha_calculator_?)
-  * [06. How to use Event calculator ?](#6._How_to_use_Event_calculator_?)
-  * [07. How to use EXP To Lvl calculator ?](#7._How_to_use_EXP_To_Lvl_calculator_?)
-  * [08. How to use Technology calculator ?](#8._How_to_use_Technology_calculator_?)
-  * [09. How to use Kizuna calculator ?](#9._How_to_use_Kizuna_calculator_?)
-  * [10. How to use Kizuna calculator ?](#10._How_to_use_Star_Language_calculator_?)
-  * [11. How to use Building calculator ?](#11._How_to_use_Building_calculator_?)
-  * [12. How to make a custom background ?](#12._How_to_make_a_custom_background_?)
-  * [13. What is Ingame Data Reader ?](#13._What_is_Ingame_Data_Reader_?)
-  * [14. What is "Update" function ?](#14._What_is_"Update"_function_?)
-  * [15. Hey , what did "About" contains ?](#15._Hey_,_what_did_"About"_contains_?)
-  * [16. So , tell me why there have "Donate" ?](#16._So_,_tell_me_why_there_have_"Donate"_?)
-  * [17. Where does you get these images ? Can I use it ?](#17._Where_does_you_get_these_images_?_Can_I_use_it_?)
-  * [18. How to contact Voc ?](#18._How_to_contact_Voc_?)
-  * [19. Where can I give my feedback / ideas to Voc ?](#19._Where_can_I_give_my_feedback_/_ideas_to_Voc_?)
-  * [20. How can I be a tester of Zgirls Tool ?](#20._How_can_I_be_a_tester_of_Zgirls_Tool_?)
-  * [21. Can I be a Dev of Zgirls Tool ?](#21._Can_I_be_a_Dev_of_Zgirls_Tool_?)
-  * [22. What's the require of Zgirls Tool ?](#22._What's_the_require_of_Zgirls_Tool_?)
-  * [23. May I know the "history" of Zgirls Tool ?](#23._May_I_know_the_"history"_of_Zgirls_Tool_?)
-  * [24. What's the future of Zgirls Tool ?](#24._What's_the_future_of_Zgirls_Tool_?)
+### 1.为什么要使用Zgirls Tool?
+- Zgirls Tool结合了10种类型的计算器
+- 拥有最完整的数据(例如建筑物计算器)
+- Zgirls Tool可以减少大量的时间一一计算!
+- 只需输入信息,然后按"计算"按钮,即可正确显示您需要的答案!
 
-### 1. Why should I use Zgirls Tool ?
-- Zgirls Tool have combine 10 types calculator
-- There have the most fully data (Such as Building calculator)
-- Zgirls Tool can reduce a lot time for calculate one by one !
-- Just type the information then press the "Calculate" button , then the answer you need will show strightly !
+### 2.如何使用教学楼计算器?
+- 首先,请填写您的教学楼等级(1- 34)
+- 接下来,请填写您的目标(2- 35)
+- 然后,您可以填写建造时间增益(例如,如果是130%,只需键入"130")
+- 之后,您可以填充RSS buff(可以从-> New function-> City Prosperous获取)
+- 最后,按"计算!"
+结果将显示于 "您需要:" 下.
 
-### 2. How to use TB calculator ?
-- First , please fill your TB's level (1 - 34)
-- Next , please fill your Aim level (2 - 35)
-- Then , you may fill the construction time buff (E.g. if it's 130% , just type "130")
-- After that , you may fill the RSS buff (You may get it from --> New function --> City Prosperous )
-- Finally , press the "Calculate !"
-There will have the result below "You Need : "
+### 3.如何使用部队计算器?
+- 首先,请填写每种部队的数目
+ 如果您已经允许Zgirls Tool读取Zgirls数据,则可以跳过此步骤
+- 之后,您也可以填写buff页面! (默认值为100)
+- 最后,按"计算!"
+结果将显示于 "部队总数:" 下.
 
-### 3. How to use Troops calculator ?
-- First , please fill how much you have in each types of troops
- if you have already abled input Zgirls data , then you may skip this step
-- After that , you may also fill in the buff page ! (100 equals the defalut number )
-- Finally , press the "Calculate !"
-There will have the result below "Total Troops : "
+### 4.如何使用能力者EXP计算器?
+- 首先,请按" +"按钮
+- 然后,选择要计算的人
+- 接下来,请填写此能力者的目标级别(15- 50)
+- 然后,请填写此能力者目前有多少个exp(默认为0)
+- 之后,如果今天是幸运日(EXP + 20%),请选中此复选框
+- 最后,按"计算!"
+结果将显示于 "您需要:" 下.
 
-### 4. How to use Enabler EXP calculator ?
-- First , please press the "+" button
-- Then , choose who you want to calculate
-- Next , please fill the Aim level of this enabler (15 - 50)
-- Then , please fill how many exp does this enabler have right now (Default is 0)
-- After that , please select the checkbox if today is Lucky day (EXP +20%)
-- Finally , press the "Calculate !"
-There will have the result below "You Need : "
+### 5.如何使用机甲计算器?
+- 首先,请按" +"按钮
+- 然后,选择要计算的机甲
+- 接下来,请填写此机甲的目标等级(2- 50)
+- 然后,请根据需要选中"显示RSS"复选框(默认为"开")
+- 之后,请根据需要选中"显示钻石"复选框(默认为关闭)
+- 最后,按"计算!"
+结果将显示于 "您需要:" 下.
 
-### 5. How to use Mecha calculator ?
-- First , please press the "+" button
-- Then , choose which mecha you want to calculate
-- Next , please fill the Aim level of this mecha (2 - 50)
-- Then , please select the checkbox "Show RSS" if you need (Default is On)
-- After that , please select the checkbox "Show Diamond" if you need (Default is Off)
-- Finally , press the "Calculate !"
-There will have the result below "You Need : "
+### 6.如何使用活动计算器?
+- 首先,请填写您要购买的商品数量
+- 接下来,按"计算!"
+- 最后,您将看到带有列表的结果
 
-### 6. How to use Event calculator ?
-- First , please fill how much item(s) you want to buy
-- Next , press the "Calculate !"
-- Finally , you will see the result with a list
+### 7.如何使用EXP To Lvl计算器?
+- 首先,请填写启动器级别(15- 49)
+- 然后,请填写此启动器目前有多少个exp(默认为0)
+- 接下来,如果今天是幸运日(EXP + 20%),请选中此复选框
+- 之后,请填写购物袋中有多少EXP(项目表格)
+- 最后,按"计算!"
+会有结果显示在Level和EXP〜
 
-### 7. How to use EXP To Lvl calculator ?
-- First , please fill the enabler's level (15 - 49)
-- Then , please fill how many exp does this enabler have right now (Default is 0)
-- Next , please select the checkbox if today is Lucky day (EXP +20%)
-- After that , please fill how many EXP (Item form) you have in bags
-- Finally , press the "Calculate !"
-There will have the result Level and EXP ~
+### 8.如何使用科技计算器?
+- 首先,请填写每种科技的级别(请按照提示的范围输入,否则会出现错误)
+- 最后,按"计算!"
+对话框将显示结果.
 
-### 8. How to use Technology calculator ?
-- First , please fill the level of each Technology (Please follow the hint's range , else it will get error)
-- Finally , press the "Calculate !"
-There will have result was shown by a Dialog.
+### 9.如何使用羁绊计算器?
+- 首先,请按" +"按钮(英雄A)
+- 然后,选择您要计算的启动器
+- 接下来,请按" +"按钮(英雄B)
+- 然后,选择您要计算的启动器
+- 接下来,请填写羁绊等级(0- 49)
+- 之后,请填写您的目标等级(1- 50)
+- 最后,按"计算!"
+结果将显示于 "您需要:" 下.
+ (如果某些羁绊的最大值不是49,那么它将仅显示羁绊最大值)
 
-### 9. How to use Kizuna calculator ?
-- First , please press the "+" button (Hero A)
-- Then , choose which enabler you want to calculate
-- Next , please press the "+" button (Hero B)
-- Then , choose which enabler you want to calculate
-- Next , please fill the Kizuna's level (0 - 49)
-- After that , please fill your Aim level (1 - 50)
-- Finally , press the "Calculate !"
-There will have the result below "You Need : "
- (if some of the kizuna's max isn't 49 then it will only show the max of it)
+### 10.如何使用星语计算器?
+- 首先,请选择您要使用的星语(可多于一个)
+- 最后,按"计算!"
+对话框将显示结果.
 
-### 10. How to use Star Language calculator ?
-- First , please choose the Star Language Set you want to use (>=1)
-- Finally , press the "Calculate !"
-There will have result was shown by a Dialog.
+### 11.如何使用建筑物计算器?
+- 首先,请按"+"按钮
+- 然后,请选择您要计算的建筑物
+- 接下来,请填写建筑物现时等级(0- 34)
+- 之后,请填写该建筑物的目标等级(1- 35)
+- 最后,按"计算!"
+结果将显示于 "您需要:" 下.
 
-### 11. How to use Building calculator ?
-- First , please press the "+" button
-- Then , please choose which building you want to calculate
-- Next , please fill the level of it (0 - 34)
-- After that , please fill the Aim level of this building (1 - 35)
-- Finally , press the "Calculate !"
-There will have the result below "You Need : "
+### 12.如何自定义背景?
+- 首先,请按"背景选择"按钮
+- 然后,选择您喜欢的图像
+仅支持.png .jpg .gif
+- 接下来,按"确定"
+- 否则,您可以按"重新选择"再次选择图像
+- 如果您想使用旧背景,只需按右上角的按钮
+- 然后您将看到自己的旧背景
+- 不要忘记按"确定"进行确认!
 
-### 12. How to make a custom background ?
-- First , please press the "Background selection" button
-- Then , choose your favourite image
-ONLY SUPPORT .png  .jpg  .gif
-- Next , press "OK"
-- Else , you may press "Reselect" to choose image again
-- If you want to use the old background , just press the upper right's button 
-- Then you will see your old background
-- Don't forget to press "OK" to corfirm !
+### 12.我可以在"设置页面"中设置什么?
+您可以设置 :
+- 更新
+-> 下载测试版
+-> 显示新版本提醒
 
-### 12. What can I set in Setting Page ?
-You may set these four types' setting
-- Update
--> Download Beta Version
--> Show New Version Reminder
-- Theme
--> Default Theme
--> Dark Theme
--> Pink Theme
--> Leek Theme
--> Summer Theme
--> Customize Theme
-- Ingame Data Reader
--> Able ZGT to read Zgirls' Data (You will only read the demo if you didn't on it)
--> Unit conversion (Only support 0 - 6 , otherwise it will change to be 1 [Defalut])
--> Show RSS Part's Transform (Show how many RSS add / cost now )
--> Show Card (RSS , Mecha , Troop , Enabler , Landmine , Process , Star Language , EXP)
+- 主题
+-> 默认主题
+-> 黑暗主题
+-> 粉色主题
+-> 韭葱主题
+-> 夏季主题
+-> 自定义主题
 
-- Troops
--> Bigger / Smaller Text Size
+- 数据读取器
+-> 可以使用ZGT读取Zgirls的数据(如果没有演示,您将只阅读该演示)
+-> 单位转换(仅支持0- 6,否则将更改为1 [Defalut])
+-> 显示资源的加减(显示现在有多少资源添加/减少)
+-> 显示适配器(资源,机甲,部队,能力者,地雷,进度,星语,EXP)
 
-### 13. What is Ingame Data Reader ?
-Provide players with some data in their personal Zgirls account in real time:
-- Resources
-(Fuel, Food, Steel, Alloy, Obisidian, Kyanite, Kyanite basic, Kyanite Cluster, Glory Mark, Catalyst, Diamond)
+- 部队
+-> 更大/更小的文字大小
 
-- The levels of the four mechas
+### 13.什么是数据读取器?
+实时为玩家提供其Zgirls帐户中的一些数据:
+- 资源
+(燃料,粮食,钢铁,合金,黑曜石,晶石,晶石脉,晶石簇,荣耀印记,催化剂,钻石)
 
-- The number of three types' landmine (grenades, mines, incendiary)
+- 四个机甲的等级
 
-- Number of troops
-(only the first 10 types of troops with the largest number are displayed)
+- 三种类型的地雷(手榴弹,地雷,燃烧弹)的数量
 
-- ^Progress
-(display unit name, number of training, remaining training time, total training time)
+- 部队人数
+(仅显示数量最多的前10种部队)
 
-- ^Activated Star Language 
-(display the active Star Language name and required Star Stone's combine)
+- ^进度
+(显示训练部队名称,是次训练数目,剩余训练时间,总训练时间)
 
-- Enablers (only display Enablers' level)
+- ^激活星语
+(显示激活中的星语名称和所需的星石组合)
 
-Remarks:
-- The data items with \"^\" are still negotiated by Zgirls development department and have not been put into service, please pay attention.
+- 能力者(仅显示能力者级别)
 
-- In order to reducing the data traffic consumed by ZGT, the \"real-time\" update part of this function will be automatically updated every three seconds.
+备注:
+- 带有\"^\"的数据项仍由Zgirls开发部门协商,尚未投入使用,请注意.
 
-- You can adjust the required additional functions through the settings page (the gear button on the main page) (allows to read the player's data in the Zgirls account, display the resource type data transition, show/hide the specified category display, data value, etc. )
+- 为了减少ZGT消耗的数据流量,此功能的"实时"更新部分将每三秒钟自动更新一次.
 
-- Please make sure that the device is connected to valid Wi-Fi /open mobile data before using the real-time data list.
+- 您可以通过设置页面(主页上的齿轮按钮)调整所需的其他功能(允许在Zgirls帐户中读取玩家的数据,显示资源类型数据转换,显示/隐藏指定的类别显示,数据值等)
 
-- The real-time data list can only work normally when Zgirls version 1.2.21 (or later) is installed, otherwise it will crash.
+- 使用实时数据列表之前,请确保设备已连接到有效的Wi-Fi/使用移动数据.
 
-### 14. What is "Update" function ?
-Actually this function was added before Zgirls Tool avaliable at Google Play Store ~
-Now it will be the pathway of tester to get the newest beta version
+- 实时数据列表仅在安装Zgirls 1.2.21版(或更高版本)时才能正常工作,否则将崩溃.
 
-### 15. Hey , what did "About" contains ?
-This page contains the changelog of each version
-Also you can get the contact way of Voc
+### 14.什么是"更新"功能?
+实际上,此功能是在Google Play商店提供的Zgirls Tool之前添加的〜
+现在,这将成为测试人员获取最新Beta版的途径
 
-### 16. So , tell me why there have "Donate" ?
-Actually , Zgirls Tool is a free application to everyone , so there won't have any function which need you to pay , that means Voc won't get any income at Zgirls Tool . In order to earn some money , Voc have added Donate function , if you want to support Zgirls Tool , you may do a donation , the range of it is HKD $8 - HKD $200
+### 15.嘿,"关于"包含什么?
+此页面包含每个版本的变更日志
+你也可以得到VOC的联系方式
 
-### 17. Where does you get these images ? Can I use it ?
+### 16.那么,请告诉我为什么会有"捐款"功能?
+实际上,Zgirls Tool是一个免费应用程序,因此没有任何需要付费的功能,这意味着Voc在 Zgirls Tool上不会获得任何收入.为了赚钱,Voc增加了Donate功能,如果您想支持Zgirls Tool,您可以进行捐款,捐款范围为 HKD$ 8 - HKD$ 200
 
-Honestly , Voc get these images at phone (I won't tell you the location and the way to get them)
+### 17.您从哪里获得这些图像?我可以使用吗?
 
-**Before Upload Zgirls Tool to Google Play Store , Voc have already told one of the Zgirls employee and she didn't rejected **
+老实说,Voc通过电话获取这些图像(我不会告诉您获取图像的位置和方式)
 
-So , sadly that means you couldn't use them at other area (include the apps , website , etc you make) else you get the permission from Zgirls .
+**在将Zgirls Tool上传到Google Play商店之前,Voc已经告诉了Zgirls的一名员工,她没有拒绝**
 
-One more thing , you are not allow to repack / unzip Zgirls Tool , you might get punishment if you do it
+因此,这意味着您不能在其他区域(包括您制作的应用程序,网站等)使用它们,除非您已获得Zgirls的许可.
 
-### 18. How to contact Voc ?
-- Discord : Voc-夜芷冰#2512
-- Email : voc.app.programmer@gmail.com
+还有一件事,您不被允许重新打包/解压缩 Zgirls Tool,如果这样做,可能会受到惩罚.
 
-### 19. Where can I give my feedback / ideas to Voc ?
-You may :
-- Send a E-mail to Voc to tell your ideas
-- Join the Zgirls Offical Discord Server : [Press me](https://discord.gg/UztYHEE)
-- Then go to the channel who call "#zgirls-tool-suggestions"
-- Feel free to tell your idea at there , don't forget to tag Voc ~
+### 18.如何联系Voc?
+- Discord:Voc-夜芷冰#2512
+- 电子邮件:voc.app.programmer@gmail.com
 
-### 20. How can I be a tester of Zgirls Tool ?
-You may PM Voc at Discord , or send a E-mail to Voc , with :
-- Your Discord name + Your name in Zgirls
-- The reason that you want to be a tester
-- Your Email (For used to download the test version)
-**Please remember , you will be invite to join a private Discord Server if you're passed**
-**Also you shouldn't share or copy this test version to other user (Both Screenshot and Messages which include information of the test version)**
-**It's better to prepare one more device (VM / Nox are also suitable to use Zgirls Tool)**
+### 19.我在哪里可以向Voc提供反馈意见?
+你可以 :
+- 向Voc发送电子邮件以告诉您您的想法
+- 加入Zgirls官方Discord服务器:[按我](https://discord.gg/UztYHEE)
+- 然后到"#zgirls-tool-suggestions"频道
+- 随时随地在这里留下您的想法,别忘了 Tag Voc〜
 
-### 21. Can I be a Dev of Zgirls Tool ?
-Sadly now Voc couldn't able anyone to help Voc about it , but you may gives feedback / ideas to me , I'm welcome to hear different ideas ~
+### 20.我如何成为Zgirls Tool的测试员?
+您可以透过Discord私聊Voc , 或向Voc发送电子邮件: (内用需符合以下要求)
+- 您的Discord名称+您在Zgirls中的名称
+- 您想成为测试员的原因
+- 您的电子邮件(用于下载测试版本)
+**请记住,如果通过,Voc将邀请您加入供测试员用的Discord服务器**
+**此外,您不应将此测试版本共享或复制给其他用户(包括测试版本信息的屏幕截图和消息)**
+**最好再准备一台设备(VM / Nox也适合用于测试 Zgirls Tool)**
 
-### 22. What's the require of Zgirls Tool ?
-- You need a device which is running Android 5.0 or above
-- You need a device which have over 1GB RAM
-- You need a device which have over 100MB Free Storage Area
-- You need a device which can connect and use Wi-Fi / Mobile Data
+### 21.我可以成为Zgirls Tool的开发者吗?
+不幸的是,现在Voc无法让任何人帮助Voc,但是您可以向我提供反馈/想法,Voc十分欢迎听到不同的想法〜
 
-### 23. May I know the "history" of Zgirls Tool ?
-- Before Zgirls Tool was developed , it's a list which show today's homework (That's real)
-- After Voc done this project , Voc want to make another app which is suitable to all Zgirls player
-- Then , Voc copied the old project and changed some part of it
-- That's the first version of Zgirls Tool (1.0.0 DEMO)
-- It's an app that can read lots tips of play well at Zgirls (JSON + HTML)
+### 22.Zgirls Tool有什么要求?
+- 您需要运行Android 5.0或更高版本的设备
+- 您需要具有超过1GB RAM的设备
+- 您需要一台具有100MB以上可用存储空间的设备
+- 您需要一台可以连接并使用Wi-Fi/移动数据的设备
 
-- After some days , Voc got an idea while calculating how much RSS cost when upgrade TB
-- And that's Make a TB Calculator !
-- Voc used a lot time , finally done the database of TB Calculator
-- Then Voc asked one of the Zgirls Volunteer to open a channel that's only for Zgirls Tool
-- At there , Voc get a lot nice ideas ! Some of them were put inside to Zgirls Tool 
+### 23.我可以知道Zgirls Tool的"历史"吗?
+- 在开发Zgirls Tool之前,这是一个家课列表 (是真的)
+- 在Voc完成此项目后,Voc希望制作另一个适用于所有Zgirls玩家的应用程序
+- 然后,Voc复制了旧项目并更改了部分内容
+- 这是Zgirls Tool的第一个版本(1.0.0 DEMO)
+- 这个应用程序可以让您在Zgirls(JSON + HTML)上阅读许多游玩Zgirls的秘诀
 
-- One day , Voc got a message , onw of the player advice Voc to make a List that can show what you have in Zgirls
-- Then , you know , Voc used over an month to done this function
-- It will be keep update , enjoy when you're using Zgirls Tool !
+- 几天后,Voc在计算升级教学楼所需资源时想到了一个主意
+- 这就是制作教学楼计算器!
+- Voc用了很多时间,终于完成了教学楼计算器的数据库
+- 然后Voc请 Zgirls Volunteers 开一个 Zgirls Tool的专属频道
+- 在那儿,Voc有很多不错的主意!其中一些更已被放入Zgirls Tool中
 
-### 24. What's the future of Zgirls Tool ?
-- When Zgirls Tool is totally done , Voc will prefer to make a online version 
-- First it will only include Ingame Data Reader
-- Don't forget to check the "#zgirls-tool-suggestions" because Voc will tell the next chagelog at there ! 
+- 一天,Voc收到一条消息,有一名玩家建议Voc制作数据列表,以显示玩家在Zgirls中拥有的东西
+- 然后,Voc用了一个多月来完成此功能
+- 数据列表将会继续更新~
 
-Edited at 2020-10-09 20:05:24
+### 24.Zgirls Tool的未来是什么?
+- Zgirls Tool完全制作完成后,Voc将更希望制作网站版
+- 首先,它仅包括数据列表
+- 不要忘了去关注"#zgirls-tool-suggestions",因为Voc会告诉那里告诉Zgirls Tool下一个更新的内容!
+
+编辑于2020-10-09 20:05:24
